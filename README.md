@@ -12,7 +12,7 @@
  
 <h1 align="center">About Me...</h1>
 
-<img align="left" alt="GIF-1" width="350px" height="320px" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" />
+<img align="left" alt="GIF-1" width="350px" height="330px" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" />
 
 
 ## I'm A Student, Developer, Gamer and a Learner!!!
@@ -27,11 +27,11 @@
 - ❤️ Support Me and Follow Me In  Social Media (by the way Twitter Is blocked due to age requirements)
 - 😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!
 
-## Spotify Playing 🎧
+## Listen With Me On Spotify 🎧
 
 [![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
 
-## Connect With Me:
+## ❤️Connect With Me❤️:
 
 [<img align="left" alt="https://aaryanbizoara.whjr.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="The Creative Thinking | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/youtube.svg" />][youtube]
