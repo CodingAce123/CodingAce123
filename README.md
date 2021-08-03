@@ -12,7 +12,7 @@
  
 <h1 align="center">About Me...</h1>
 
-<img align="left" alt="GIF-1" width="350px" height="330px" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" />
+<img align="left" alt="GIF-1" width="350px" height="340px" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" />
 
 
 ## I'm A Student, Developer, Gamer and a Learner!!!
@@ -31,12 +31,14 @@
 
 [![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
 
-## ❤️Connect With Me❤️:
+<h2 align="center">❤️Connect With Me❤️:</h2>
 
 [<img align="left" alt="https://aaryanbizoara.whjr.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="The Creative Thinking | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="FireInTheTail123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="FireInTheTail123| Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/twitch.svg" />][twitch]
+[<img align="left" alt="TailOnFire123| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="FireInTheTail123 | Roblox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/roblox.svg" />][roblox]
+[<img align="left" alt="FireInTheTail123 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/discord.svg" />][discord]
 [<img align="left" alt="Àârÿàn | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/spotify.svg" />][spotify]
 
 <br />
@@ -186,8 +188,10 @@ HTML                     1 repo              ░░░░░░░░░░░�
 [website]: https://aaryanbizoara.whjr.site/
 [refferal]: https://whjr.co/hCwc4
 [youtube]: https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg
+[twitch]: https://twitch.tv/fireinthetail123
 [twitter]: https://twitter.com/TailOnFire123
 [roblox]: https://web.roblox.com/users/1992108766/profile
+[discord]: https://discord.gg/4CpjK2vveY
 [spotify]: https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e
 
 
