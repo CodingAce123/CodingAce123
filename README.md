@@ -16,10 +16,15 @@
 
 
 ## I'm A Student, Developer, Gamer and a Learner!!!
+- 👱🏼 Hey, I am Aaryan Bizoara, a Young Developer and I'm a Student In Grade 8th
 - 🎓 Currently In Coding, I Am Learning JavaScript on [WhiteHat Junior][refferal].
 - 🌱 I’m currently Learning Everything 🤣
+- 😐 I have a love/hate relationship with Programming
 - 🌈 I Like Coding, Cricket, Art and Craft, Cubing, Music and Playing Games.
+- ⚡ FUN FACT: I Love Food, Travelling and Playing Games 
+- 😄 Pronouns: Coder, Leader and Kind Hearted
 - ✈ In Future, I’m looking to go in Microsoft.
+- ❤️ Support Me and Follow Me In  Social Media (by the way Twitter Is blocked due to age requirements)
 - 😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!
 
 ## Spotify Playing 🎧
