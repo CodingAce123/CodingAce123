@@ -150,7 +150,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
 
 <div align="center">
@@ -167,7 +167,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 </details>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
