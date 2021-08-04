@@ -133,8 +133,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 </details>
 
-<br />
-
 <details>
   <summary> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
