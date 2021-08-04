@@ -46,10 +46,10 @@
 
 ---
 
-<h1 align="center">My Programming,Youtube and Github Stats</h1>
+<h1 align="center">My Programming, Github and Youtube Stats</h1>
 
  <details> 
- <summary>🤖 <b>:zap: Programming Stats</b>: </summary>
+ <summary>🤖 <b>:zap: Programming Stats :zap:</b>: </summary>
  <br>
 
 <!--START_SECTION:waka-->
@@ -135,20 +135,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <br />
 
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [How to Make a Sofa- Easy Origami (In 5 MINUTES) 🔥🔥🔥|](https://www.youtube.com/watch?v=Fb9H-Pm2yUo)
-- [50th Wedding Anniversary of Usha Anil Bizoara](https://www.youtube.com/watch?v=TuB-YVbts8k)
-- [Diveagar Shrivardhan | Diveagar Beach | Pune To Diveagar | How To Plan Diveagar Trip Itinerary](https://www.youtube.com/watch?v=Rc5F8uGuNDs)
-- [Lonar lake: 10 interesting facts, लोनार झील का रहस्य, Lonar Drone Shots 4K, Pune to lonar road trip](https://www.youtube.com/watch?v=I9IH-np90Yg)
-- [How To Submit A PDF Of Assignment In Google Classroom.](https://www.youtube.com/watch?v=g9zXnxBl1uo)
-<!-- YOUTUBE:END -->
-
-➡️ [More Videos...](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
-
----
-
 <details>
   <summary> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
@@ -174,6 +160,18 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:activity-->
 
 </details>
+
+## 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [How to Make a Sofa- Easy Origami (In 5 MINUTES) 🔥🔥🔥|](https://www.youtube.com/watch?v=Fb9H-Pm2yUo)
+- [50th Wedding Anniversary of Usha Anil Bizoara](https://www.youtube.com/watch?v=TuB-YVbts8k)
+- [Diveagar Shrivardhan | Diveagar Beach | Pune To Diveagar | How To Plan Diveagar Trip Itinerary](https://www.youtube.com/watch?v=Rc5F8uGuNDs)
+- [Lonar lake: 10 interesting facts, लोनार झील का रहस्य, Lonar Drone Shots 4K, Pune to lonar road trip](https://www.youtube.com/watch?v=I9IH-np90Yg)
+- [How To Submit A PDF Of Assignment In Google Classroom.](https://www.youtube.com/watch?v=g9zXnxBl1uo)
+<!-- YOUTUBE:END -->
+
+➡️ [More Videos...](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
 
 ---
 
