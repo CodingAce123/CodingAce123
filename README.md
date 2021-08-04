@@ -31,7 +31,7 @@
 
 [![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
 
-<h2 align="center">❤️Connect With Me❤️:</h2>
+## ❤️Connect With Me❤️:
 
 [<img align="left" alt="https://aaryanbizoara.whjr.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="The Creative Thinking | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/youtube.svg" />][youtube]
@@ -46,8 +46,10 @@
 
 ---
 
+<h1 align="center">My Programming,Youtube and Github Stats</h1>
+
  <details> 
- <summary>🤖 <b>My Programming Stats</b>: </summary>
+ <summary>🤖 <b>:zap: Programming Stats</b>: </summary>
  <br>
 
 <!--START_SECTION:waka-->
@@ -133,7 +135,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <br />
 
----
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -149,7 +150,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ---
 
 <details>
-  <summary>:zap: My GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
 <br />
 
 <div align="center">
