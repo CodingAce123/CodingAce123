@@ -152,7 +152,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
   <summary> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
+1. ❗️ Opened issue [#556](https://github.com/benjaminsampica/benjaminsampica/issues/556) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
 </details>
