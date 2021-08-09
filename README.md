@@ -9,6 +9,14 @@
 [![GitHub Followers](https://img.shields.io/github/followers/mastercoder1234567890?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/MasterCoder1234567890)
 
 ---
+
+<h1 align='center'>
+  💻 My Workspace, My PC!!!<br/><br/>
+  <img src="https://img.shields.io/badge/windows%2010-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%205th%20 Gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/system%20type-64%20bit-%230071C5.svg?&style=for-the-badge" />
+</h1>
  
 <h1 align="center">About Me...</h1>
 
@@ -170,6 +178,11 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!-- YOUTUBE:END -->
 
 ➡️ [More Videos...](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
+
+<h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
+<p align="center">
+  <img src="https://github.com/siddhant-roy/siddhant-roy/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ---
 
