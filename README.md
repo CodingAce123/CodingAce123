@@ -179,7 +179,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
 <p align="center">
-  ![snake gif](https://github.com/MasterCoder1234567890/MasterCoder1234567890/blob/output/github-contribution-grid-snake.gif)"
+  ![Snake Gif](https://github.com/MasterCoder1234567890/MasterCoder1234567890/blob/output/github-contribution-grid-snake.gif)
 </p>
 
 ---
