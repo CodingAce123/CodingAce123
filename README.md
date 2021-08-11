@@ -158,11 +158,11 @@ HTML                     1 repo              ░░░░░░░░░░░�
   <summary> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#673](https://github.com/benjaminsampica/benjaminsampica/issues/673) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-2. ❗️ Opened issue [#672](https://github.com/benjaminsampica/benjaminsampica/issues/672) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-3. ❗️ Opened issue [#671](https://github.com/benjaminsampica/benjaminsampica/issues/671) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-4. ❗️ Opened issue [#670](https://github.com/benjaminsampica/benjaminsampica/issues/670) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-5. ❗️ Opened issue [#669](https://github.com/benjaminsampica/benjaminsampica/issues/669) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+1. ❗️ Closed issue [#675](https://github.com/benjaminsampica/benjaminsampica/issues/675) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+2. ❗️ Closed issue [#677](https://github.com/benjaminsampica/benjaminsampica/issues/677) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+3. ❗️ Closed issue [#682](https://github.com/benjaminsampica/benjaminsampica/issues/682) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+4. ❗️ Closed issue [#687](https://github.com/benjaminsampica/benjaminsampica/issues/687) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+5. ❗️ Closed issue [#689](https://github.com/benjaminsampica/benjaminsampica/issues/689) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
 </details>
