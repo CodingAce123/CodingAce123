@@ -27,8 +27,8 @@
 ## I'm A Student, Developer, Gamer and a Learner!!!
 - 👱🏼 Hey, I am Aaryan Bizoara, a Young Developer and I'm a Student In Grade 8th
 - 🎓 Currently In Coding, I Am Learning JavaScript on [WhiteHat Junior][refferal].
-- 🌱 I’m currently Learning Everything 🤣
-- 😐 I have a love/hate relationship with Programming
+- 😐 I have a Love/hate Relationship with Programming
+- 💥 Check Out My Awesome [Octoprofile][octoprofile]
 - 🌈 I Like Coding, Cricket, Art and Craft, Cubing, Music and Playing Games.
 - ⚡ FUN FACT: I Love Food, Travelling and Playing Games 
 - 😄 Pronouns: Coder, Leader and Kind Hearted
@@ -197,6 +197,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 [website]: https://aaryanbizoara.whjr.site/
 [refferal]: https://whjr.co/hCwc4
+[octoprofile]: https://octoprofile.vercel.app/user?id=MasterCoder1234567890
 [youtube]: https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg
 [twitch]: https://twitch.tv/fireinthetail123
 [twitter]: https://twitter.com/TailOnFire123
