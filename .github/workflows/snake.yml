@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: ⚡ Update this repo's README with Snake
     steps:
       - uses: actions/checkout@v2
       - uses: Platane/snk@master
