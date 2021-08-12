@@ -16,5 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: ⚡ Update Github Profile README Workflows
+          COMMIT_MSG: ⚡ Update Github Profile README 
           MAX_LINES: 5
