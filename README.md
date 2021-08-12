@@ -148,7 +148,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MasterCoder1234567890&theme=monokai&row=1&column=7)](https://github.com/MasterCoder1234567890)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mastercoder1234567890&theme=dark)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mastercoder1234567890&theme=dark)](https://github.com/MasterCoder1234567890)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=mastercoder1234567890&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
@@ -188,7 +188,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 ## Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+[![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)](https://github.com/MasterCoder1234567890)
 
 
 
