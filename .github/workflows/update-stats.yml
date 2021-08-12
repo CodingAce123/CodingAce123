@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: ⚡Update this repo's README with Github Development Stats
+    name: ⚡ Update this repo's README with Github Development Stats
     runs-on: ubuntu-20.04
     steps:
       - uses: anmol098/waka-readme-stats@master
