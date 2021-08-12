@@ -12,10 +12,11 @@
 
 <h1 align='center'>
   💻 My Workspace, My PC!!!<br/><br/>
-  <img src="https://img.shields.io/badge/windows%2010-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%205th%20 Gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/system%20type-64%20bit-%230071C5.svg?&style=for-the-badge" />
+  
+  [![Windows 10](https://img.shields.io/badge/windows%2010-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MasterCoder1234567890)
+  [![Windows 10](https://img.shields.io/badge/intel-core%20i5%205th%20 Gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)](https://github.com/MasterCoder1234567890)
+  [![Windows 10](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/MasterCoder1234567890)
+  [![Windows 10](https://img.shields.io/badge/system%20type-64%20bit-%230071C5.svg?&style=for-the-badge)](https://github.com/MasterCoder1234567890)
 </h1>
  
 <h1 align="center">About Me...</h1>
@@ -65,35 +66,35 @@
 
 **🐱 My Github Data** 
 
-> 🏆 1,714 Contributions in the Year 2021
+> 🏆 1,579 Contributions in the Year 2021
  > 
-> 📦 60.6 kB Used in Github's Storage 
+> 📦 60.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 53 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    120 commits    ███████████████░░░░░░░░░░   60.3% 
-🌆 Daytime    78 commits     █████████░░░░░░░░░░░░░░░░   39.2% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
+🌞 Morning    116 commits    ███████████████░░░░░░░░░░   60.1% 
+🌆 Daytime    76 commits     █████████░░░░░░░░░░░░░░░░   39.38% 
+🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       117 commits    ██████████████░░░░░░░░░░░   58.79% 
-Tuesday      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
-Wednesday    22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.06% 
-Thursday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
-Friday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51% 
-Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.52% 
-Sunday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54%
+Monday       117 commits    ███████████████░░░░░░░░░░   60.62% 
+Tuesday      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
+Wednesday    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
+Thursday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.18% 
+Friday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
+Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.63% 
+Sunday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81%
 
 ```
 
@@ -104,17 +105,17 @@ Sunday       17 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     50 mins             █████████████░░░░░░░░░░░░   51.59% 
-Markdown                 47 mins             ████████████░░░░░░░░░░░░░   48.41%
+Markdown                 30 mins             ██████████████░░░░░░░░░░░   57.85% 
+YAML                     22 mins             ██████████░░░░░░░░░░░░░░░   42.15%
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.0%
+VS Code                  52 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-MasterCoder1234567890    1 hr 38 mins        █████████████████████████   100.0%
+MasterCoder1234567890    52 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.0%
+Windows                  52 mins             █████████████████████████   100.0%
 
 ```
 
@@ -132,7 +133,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 
 </details>
@@ -158,11 +159,11 @@ HTML                     1 repo              ░░░░░░░░░░░�
   <summary> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#728](https://github.com/benjaminsampica/benjaminsampica/issues/728) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-2. ❗️ Opened issue [#727](https://github.com/benjaminsampica/benjaminsampica/issues/727) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-3. ❗️ Opened issue [#726](https://github.com/benjaminsampica/benjaminsampica/issues/726) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-4. ❗️ Opened issue [#725](https://github.com/benjaminsampica/benjaminsampica/issues/725) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-5. ❗️ Opened issue [#724](https://github.com/benjaminsampica/benjaminsampica/issues/724) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+1. ❗️ Opened issue [#15709](https://github.com/timburgan/timburgan/issues/15709) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#15708](https://github.com/timburgan/timburgan/issues/15708) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+3. ❗️ Opened issue [#556](https://github.com/benjaminsampica/benjaminsampica/issues/556) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+4. ❗️ Opened issue [#555](https://github.com/benjaminsampica/benjaminsampica/issues/555) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+5. ❗️ Opened issue [#15546](https://github.com/timburgan/timburgan/issues/15546) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </details>
