@@ -66,35 +66,35 @@
 
 **🐱 My Github Data** 
 
-> 🏆 1,579 Contributions in the Year 2021
+> 🏆 2,046 Contributions in the Year 2021
  > 
-> 📦 60.7 kB Used in Github's Storage 
+> 📦 60.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 52 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    116 commits    ███████████████░░░░░░░░░░   60.1% 
-🌆 Daytime    76 commits     █████████░░░░░░░░░░░░░░░░   39.38% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
+🌞 Morning    130 commits    ███████████████░░░░░░░░░░   61.61% 
+🌆 Daytime    80 commits     █████████░░░░░░░░░░░░░░░░   37.91% 
+🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       117 commits    ███████████████░░░░░░░░░░   60.62% 
-Tuesday      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
-Wednesday    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
-Thursday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.18% 
-Friday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
-Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.63% 
-Sunday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81%
+Monday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
+Tuesday      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.95% 
+Wednesday    22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
+Thursday     122 commits    ██████████████░░░░░░░░░░░   57.82% 
+Friday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37% 
+Saturday     7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32% 
+Sunday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06%
 
 ```
 
@@ -105,17 +105,22 @@ Sunday       17 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 30 mins             ██████████████░░░░░░░░░░░   57.85% 
-YAML                     22 mins             ██████████░░░░░░░░░░░░░░░   42.15%
+JavaScript               37 mins             ██████████████████████░░░   88.12% 
+HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.0%
+VS Code                  42 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-MasterCoder1234567890    52 mins             █████████████████████████   100.0%
+Prison Break             38 mins             ██████████████████████░░░   90.91% 
+Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
+MasterCoder1234567890    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
+AngryBirdsStage3.5       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
+Project 29               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.0%
+Windows                  42 mins             █████████████████████████   100.0%
 
 ```
 
@@ -133,7 +138,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/08/2021
+ Last Updated on 24/08/2021
 <!--END_SECTION:waka-->
 
 </details>
@@ -159,11 +164,11 @@ HTML                     1 repo              ░░░░░░░░░░░�
   <summary> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#729](https://github.com/benjaminsampica/benjaminsampica/issues/729) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-2. ❗️ Opened issue [#728](https://github.com/benjaminsampica/benjaminsampica/issues/728) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-3. ❗️ Opened issue [#727](https://github.com/benjaminsampica/benjaminsampica/issues/727) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-4. ❗️ Opened issue [#726](https://github.com/benjaminsampica/benjaminsampica/issues/726) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-5. ❗️ Opened issue [#725](https://github.com/benjaminsampica/benjaminsampica/issues/725) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+1. ❗️ Opened issue [#736](https://github.com/benjaminsampica/benjaminsampica/issues/736) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+2. ❗️ Opened issue [#729](https://github.com/benjaminsampica/benjaminsampica/issues/729) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+3. ❗️ Opened issue [#728](https://github.com/benjaminsampica/benjaminsampica/issues/728) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+4. ❗️ Opened issue [#727](https://github.com/benjaminsampica/benjaminsampica/issues/727) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+5. ❗️ Opened issue [#726](https://github.com/benjaminsampica/benjaminsampica/issues/726) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
 </details>
