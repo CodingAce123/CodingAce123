@@ -190,7 +190,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 [![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)](https://github.com/MasterCoder1234567890)
 
-
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
 </details>
