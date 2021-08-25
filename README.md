@@ -31,7 +31,8 @@ npx aaryan
 ```
 **👆 This Command Line Tool can be Found at [npx aaryan](https://github.com/MasterCoder1234567890/Npx-Card)**
 
-<h4 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55"> <em><b>I Love Connecting with Different People</b> So If You Want to say <b>Hi</b>, I'll be <b>Happy to Meet you More!</b> 😊</em></h4>
+<h4 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50
+" height="50"> <em><b>I Love Connecting with Different People</b> So If You Want to say <b>Hi</b>, I'll be <b>Happy to Meet you More!</b> 😊</em></h4>
 
 ---
  
