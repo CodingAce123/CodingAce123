@@ -1,4 +1,5 @@
 <h1 align="center">नमस्ते जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Aaryan Bizoara- a.k.a. 👱🏼 MasterCoder1234567890®™</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="left">A 13 Year Old Passionate Developer from India (भारत)</h3>
 
 *A Student at [Whitehat Juniour](https://whjr.co/hCwc4)*<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
