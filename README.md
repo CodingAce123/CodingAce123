@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
 <h3 align="left">A 13 Year Old Passionate Developer from India (भारत)</h3>
 
-*A Student at [Whitehat Juniour](https://whjr.co/hCwc4)*<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+*A Student at [Whitehat Junior](https://whjr.co/hCwc4)*<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
 [![Visits](https://komarev.com/ghpvc/?username=mastercoder1234567890&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/MasterCoder1234567890)
