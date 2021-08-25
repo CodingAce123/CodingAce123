@@ -1,5 +1,7 @@
 <h1 align="center">नमस्ते जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Aaryan Bizoara- a.k.a. 👱🏼 MasterCoder1234567890®™</h1>
-<h3 align="center">A 13 Year Old Passionate Developer from India (भारत)</h3>
+<h3 align="left">A 13 Year Old Passionate Developer from India (भारत)</h3>
+
+*A Student at [Whitehat Juniour](https://whjr.co/hCwc4)*
 
 [![Visits](https://komarev.com/ghpvc/?username=mastercoder1234567890&logo=GitHub&label=Github%20Visits&color=f20707&logoColor=white&style=flat-square)](https://github.com/MasterCoder1234567890)
 [![Website](https://img.shields.io/website?label=My%20Website&style=flat-square&url=https://aaryanbizoara.whjr.site/)](https://aaryanbizoara.whjr.site/)
@@ -7,6 +9,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/TailOnFire123?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbout-Me&screen_name=TailOnFire123)
 [![My Twitch](https://img.shields.io/twitch/status/fireinthetail123?color=f70505&label=My%20Twitch&logo=twitch&style=flat-square)](https://www.twitch.tv/fireinthetail123)
 [![GitHub Followers](https://img.shields.io/github/followers/mastercoder1234567890?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/MasterCoder1234567890)
+
+<h3 align='left'>
+  💻 My Workspace, My PC!!!:-<br/><br/>
+
+  [![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/MasterCoder1234567890)
+  [![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/MasterCoder1234567890)
+  [![8GB RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/MasterCoder1234567890)
+  [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/MasterCoder1234567890)
+</h3>
 
 ---
 
@@ -20,15 +31,6 @@ npx aaryan
 **👆 This Command Line Tool can be Found at [npx aaryan](https://github.com/MasterCoder1234567890/Npx-Card)**
 
 ---
-
-<h2 align='center'>
-  💻 My Workspace, My PC!!!<br/><br/>
-
-  [![Windows 10](https://img.shields.io/badge/windows%2010-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MasterCoder1234567890)
-  [![Intel Core i5](https://img.shields.io/badge/intel-core%20i5%205th%20%20Gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)](https://github.com/MasterCoder1234567890)
-  [![8GB RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/MasterCoder1234567890)
-  [![64 Bit System](https://img.shields.io/badge/system%20type-64%20bit-%230071C5.svg?&style=for-the-badge)](https://github.com/MasterCoder1234567890)
-</h1>
  
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
 
