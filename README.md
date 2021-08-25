@@ -5,7 +5,7 @@
 *A Student at [Whitehat Juniour](https://whjr.co/hCwc4)*<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
-[![Visits](https://komarev.com/ghpvc/?username=mastercoder1234567890&logo=GitHub&label=Github%20Visits&color=f20707&logoColor=white&style=flat-square)](https://github.com/MasterCoder1234567890)
+[![Visits](https://komarev.com/ghpvc/?username=mastercoder1234567890&logo=GitHub&label=Github%20Profile%20Visits&color=f20707&logoColor=white&style=flat-square)](https://github.com/MasterCoder1234567890)
 [![Website](https://img.shields.io/website?label=My%20Website&style=flat-square&url=https://aaryanbizoara.whjr.site/)](https://aaryanbizoara.whjr.site/)
 [![My Youtube](https://img.shields.io/youtube/channel/subscribers/UC5kSlDs_uZs6mr-GeJfC8tg?color=%23ff0000&label=Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TailOnFire123?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbout-Me&screen_name=TailOnFire123)
