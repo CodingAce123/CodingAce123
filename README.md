@@ -1,7 +1,8 @@
 <h1 align="center">नमस्ते जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Aaryan Bizoara- a.k.a. 👱🏼 MasterCoder1234567890®™</h1>
 <h3 align="left">A 13 Year Old Passionate Developer from India (भारत)</h3>
 
-*A Student at [Whitehat Juniour](https://whjr.co/hCwc4)*
+*A Student at [Whitehat Juniour](https://whjr.co/hCwc4)*<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+</em></p>
 
 [![Visits](https://komarev.com/ghpvc/?username=mastercoder1234567890&logo=GitHub&label=Github%20Visits&color=f20707&logoColor=white&style=flat-square)](https://github.com/MasterCoder1234567890)
 [![Website](https://img.shields.io/website?label=My%20Website&style=flat-square&url=https://aaryanbizoara.whjr.site/)](https://aaryanbizoara.whjr.site/)
