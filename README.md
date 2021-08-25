@@ -10,6 +10,14 @@
 
 ---
 
+📧 Want To E-Mail Me?
+*👇 Hit in Your Console or Terminal to Connect With Me.*
+
+```bash
+npx aaryan
+```
+**👆 This Command Line Tool can be Found at [npx aaryan](https://github.com/MasterCoder1234567890/Npx-Card)**
+
 <h1 align='center'>
   💻 My Workspace, My PC!!!<br/><br/>
 
@@ -19,7 +27,7 @@
   [![64 Bit System](https://img.shields.io/badge/system%20type-64%20bit-%230071C5.svg?&style=for-the-badge)](https://github.com/MasterCoder1234567890)
 </h1>
  
-<h1 align="center">About Me...</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
 
 <img align="left" alt="GIF-1" width="350px" height="340px" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" />
 
