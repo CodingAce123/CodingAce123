@@ -61,12 +61,12 @@ npx aaryan
 ## ❤️Connect With Me❤️:
 
 [<img align="left" alt="https://aaryanbizoara.whjr.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="The Creative Thinking | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="FireInTheTail123| Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/twitch.svg" />][twitch]
-[<img align="left" alt="TailOnFire123| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="FireInTheTail123 | Roblox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/roblox.svg" />][roblox]
-[<img align="left" alt="FireInTheTail123 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/discord.svg" />][discord]
-[<img align="left" alt="Àârÿàn | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/spotify.svg" />][spotify]
+[<img align="left" alt="The Creative Thinking | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/youtube.svg" />][youtube]
+[<img align="left" alt="FireInTheTail123| Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/twitch.svg" />][twitch]
+[<img align="left" alt="TailOnFire123| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="FireInTheTail123 | Roblox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/roblox.svg" />][roblox]
+[<img align="left" alt="FireInTheTail123 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/discord.svg" />][discord]
+[<img align="left" alt="Àârÿàn | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/spotify.svg" />][spotify]
 
 <br />
 <br />
