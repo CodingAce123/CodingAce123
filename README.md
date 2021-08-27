@@ -166,7 +166,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <details>
   <summary> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
-
 <div align="center">
 
 <img src='https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github_dark/0-profile-details.svg'
