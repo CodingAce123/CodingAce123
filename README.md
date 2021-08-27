@@ -168,8 +168,9 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <br />
 
 <div align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=mastercoder1234567890&show_icons=true&theme=merko&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCoder1234567890&layout=compact' />
+<img src='https://github-readme-stats.vercel.app/api?username=mastercoder1234567890&show_icons=true&theme=radical&count_private=true&border_color=2e4058&line_height=40'  align="left" />
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCoder1234567890&langs_count=5&border_color=2e4058' />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MasterCoder1234567890&theme=monokai&row=1&column=7)](https://github.com/MasterCoder1234567890)
 
