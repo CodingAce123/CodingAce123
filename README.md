@@ -204,7 +204,7 @@ align="left" />
 </details>
 
 <details>
-  <summary> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
+  <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#16111](https://github.com/timburgan/timburgan/issues/16111) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
