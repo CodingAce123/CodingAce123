@@ -164,6 +164,15 @@ HTML                     1 repo              ░░░░░░░░░░░�
 </details>
 
 <details>
+  <summary> <b>:zap: WakaTime Stats :zap:</b>: </summary>
+<br />
+
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=mastercoder123456789' 
+align = left/>
+
+</details>
+
+<details>
   <summary> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
 <div align="center">
