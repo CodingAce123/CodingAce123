@@ -76,7 +76,7 @@ npx aaryan
 <h1 align="center">My Programming, Github and Youtube Stats</h1>
 
  <details> 
- 🤖 <summary> <b>:zap: Programming Stats :zap:</b>: </summary>
+🤖<summary> <b>:zap: Programming Stats :zap:</b>: </summary>
  <br>
 
 <!--START_SECTION:waka-->
