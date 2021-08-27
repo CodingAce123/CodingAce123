@@ -171,13 +171,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <img src='https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github_dark/0-profile-details.svg'
 align = "left" />
 
-<img src ='https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github_dark/1-repos-per-language.svg' />
+<img src ='https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github/1-repos-per-language.svg' />
 
-<img src = 'https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github_dark/2-most-commit-language.svg' />
+<img src = 'https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github/2-most-commit-language.svg' />
 
-<img src = 'https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github_dark/3-stats.svg' />
+<img src = 'https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/nord_dark/3-stats.svg' />
 
-<img src = 'https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github_dark/4-productive-time.svg' />
+<img src = 'https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/nord_dark/4-productive-time.svg' />
 
 <img src='https://github-readme-stats.vercel.app/api?username=mastercoder1234567890&show_icons=true&theme=radical&count_private=true&border_color=2e4058&line_height=40'  
 align="left" />
