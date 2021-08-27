@@ -176,7 +176,7 @@ align = "left" />
 
 <img src = 'https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github_dark/2-most-commit-language.svg' />
 
-<img src = 'https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github_dark/3-stats.svg'
+<img src = 'https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github_dark/3-stats.svg' />
 
 <img src = 'https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/profile-summary-card-output/github_dark/4-productive-time.svg' />
 
