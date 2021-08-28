@@ -242,6 +242,10 @@ align="left" />
 
 [![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)](https://github.com/MasterCoder1234567890)
 
+[![Stargazers repo roster for @MasterCoder1234567890/MasterCoder1234567890](https://reporoster.com/stars/dark/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890/MasterCoder1234567890/stargazers)
+
+[![Forkers repo roster for @MasterCoder1234567890/MasterCoder1234567890](https://reporoster.com/forks/dark/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890/MasterCoder1234567890/network/members)
+
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 ![Bottom Doodle](/files/bottom.png)
