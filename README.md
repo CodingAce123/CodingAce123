@@ -1,6 +1,4 @@
-![top doodle](/files/top.png)
-
-<h1 align="center">नमस्ते जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Aaryan Bizoara- a.k.a. 👱🏼 MasterCoder1234567890®™</h1>
+![Top Doodle](/files/top.png)<h1 align="center">नमस्ते जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Aaryan Bizoara- a.k.a. 👱🏼 MasterCoder1234567890®™</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
 <h3 align="left">A 13 Year Old Passionate Developer from India (भारत)</h3>
 
@@ -242,8 +240,7 @@ align="left" />
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
-
-![bottom doodle](/files/bottom.png)
+![Bottom Doodle](/files/bottom.png)
 </details>
 
 [website]: https://aaryanbizoara.whjr.site/
