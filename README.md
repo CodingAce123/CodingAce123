@@ -206,13 +206,13 @@ align="left" />
 <details>
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
-<!--START_SECTION:activity-->
+   <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#16111](https://github.com/timburgan/timburgan/issues/16111) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 2. ❗️ Opened issue [#751](https://github.com/benjaminsampica/benjaminsampica/issues/751) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 3. ❗️ Opened issue [#736](https://github.com/benjaminsampica/benjaminsampica/issues/736) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 4. ❗️ Opened issue [#729](https://github.com/benjaminsampica/benjaminsampica/issues/729) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 5. ❗️ Opened issue [#727](https://github.com/benjaminsampica/benjaminsampica/issues/727) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-<!--END_SECTION:activity-->
+   <!--END_SECTION:activity-->
 
 </details>
 
