@@ -1,4 +1,6 @@
-![Top Doodle](/files/top.png)<h1 align="center">नमस्ते जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Aaryan Bizoara- a.k.a. 👱🏼 MasterCoder1234567890®™</h1>
+![Top Doodle](/files/top.png)
+
+<h1 align="center">नमस्ते जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Aaryan Bizoara- a.k.a. 👱🏼 MasterCoder1234567890®™</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
 <h3 align="left">A 13 Year Old Passionate Developer from India (भारत)</h3>
 
@@ -80,13 +82,15 @@ npx aaryan
  <br>
 
 <!--START_SECTION:waka-->
+<img align="right" alt="GIF-2" width="400px" height="300px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/>
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,595 Contributions in the Year 2021
+> 🏆 2,578 Contributions in the Year 2021
  > 
-> 📦 87.5 kB Used in Github's Storage 
+> 📦 87.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,22 +101,22 @@ npx aaryan
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    68 commits     ██████░░░░░░░░░░░░░░░░░░░   23.78% 
-🌆 Daytime    214 commits    ██████████████████░░░░░░░   74.83% 
-🌃 Evening    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
+🌞 Morning    56 commits     █████░░░░░░░░░░░░░░░░░░░░   20.14% 
+🌆 Daytime    218 commits    ███████████████████░░░░░░   78.42% 
+🌃 Evening    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.04% 
-Wednesday    59 commits     █████░░░░░░░░░░░░░░░░░░░░   20.63% 
-Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
-Friday       126 commits    ███████████░░░░░░░░░░░░░░   44.06% 
-Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
-Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
+Monday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
+Tuesday      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
+Wednesday    59 commits     █████░░░░░░░░░░░░░░░░░░░░   21.22% 
+Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
+Friday       125 commits    ███████████░░░░░░░░░░░░░░   44.96% 
+Saturday     7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52% 
+Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
 
 ```
 
