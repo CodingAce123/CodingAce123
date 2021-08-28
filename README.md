@@ -242,7 +242,9 @@ align="left" />
 
 [![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)](https://github.com/MasterCoder1234567890)
 
-[![Stargazers repo roster for @MasterCoder1234567890/MasterCoder1234567890](https://reporoster.com/stars/dark/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890/MasterCoder1234567890/stargazers)
+<img align="left" alt="https://reporoster.com/stars/dark/MasterCoder1234567890/MasterCoder1234567890" src="https://github.com/MasterCoder1234567890/MasterCoder1234567890/stargazers" />
+
+<img align="left" alt="https://aaryanbizoara.whjr.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 
 [![Forkers repo roster for @MasterCoder1234567890/MasterCoder1234567890](https://reporoster.com/forks/dark/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890/MasterCoder1234567890/network/members)
 
