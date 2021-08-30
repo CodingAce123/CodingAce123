@@ -209,11 +209,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16169](https://github.com/timburgan/timburgan/issues/16169) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#16168](https://github.com/timburgan/timburgan/issues/16168) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#16167](https://github.com/timburgan/timburgan/issues/16167) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Opened issue [#16166](https://github.com/timburgan/timburgan/issues/16166) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. ❗️ Opened issue [#16111](https://github.com/timburgan/timburgan/issues/16111) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. ❗️ Opened issue [#782](https://github.com/benjaminsampica/benjaminsampica/issues/782) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+2. ❗️ Opened issue [#781](https://github.com/benjaminsampica/benjaminsampica/issues/781) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+3. ❗️ Opened issue [#780](https://github.com/benjaminsampica/benjaminsampica/issues/780) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+4. ❗️ Opened issue [#779](https://github.com/benjaminsampica/benjaminsampica/issues/779) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+5. ❗️ Opened issue [#778](https://github.com/benjaminsampica/benjaminsampica/issues/778) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
   <!--END_SECTION:activity-->
 
 </details>
