@@ -208,11 +208,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16318](https://github.com/timburgan/timburgan/issues/16318) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#16317](https://github.com/timburgan/timburgan/issues/16317) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#16315](https://github.com/timburgan/timburgan/issues/16315) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Opened issue [#16249](https://github.com/timburgan/timburgan/issues/16249) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. ❗️ Opened issue [#813](https://github.com/benjaminsampica/benjaminsampica/issues/813) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+1. ❗️ Closed issue [#16318](https://github.com/timburgan/timburgan/issues/16318) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Closed issue [#16317](https://github.com/timburgan/timburgan/issues/16317) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+3. ❗️ Opened issue [#16322](https://github.com/timburgan/timburgan/issues/16322) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. ❗️ Opened issue [#816](https://github.com/benjaminsampica/benjaminsampica/issues/816) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+5. ❗️ Opened issue [#16318](https://github.com/timburgan/timburgan/issues/16318) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
   <!--END_SECTION:activity-->
 
 </details>
