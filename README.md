@@ -23,6 +23,8 @@
   [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/MasterCoder1234567890)
 </h3>
 
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/MasterCoder1234567890/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/MasterCoder1234567890/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/MasterCoder1234567890/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
 ---
 
 📧 Want To E-Mail Me?
@@ -238,8 +240,6 @@ align="left" />
 ## Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 [![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)](https://github.com/MasterCoder1234567890)
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/MasterCoder1234567890/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/MasterCoder1234567890/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/MasterCoder1234567890/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
 [![Stargazers repo roster for @MasterCoder1234567890/MasterCoder1234567890](https://reporoster.com/stars/dark/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890/MasterCoder1234567890/stargazers)
 
