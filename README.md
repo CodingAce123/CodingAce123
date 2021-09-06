@@ -25,6 +25,8 @@
   [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/MasterCoder1234567890)
 </h3>
 
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/MasterCoder1234567890/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/MasterCoder1234567890/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/MasterCoder1234567890/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
 ---
 
 📧 Want To E-Mail Me?
@@ -87,41 +89,39 @@ npx aaryan
  <br>
 
 <!--START_SECTION:waka-->
-<img align="right" alt="GIF-2" width="400px" height="300px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/>
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,578 Contributions in the Year 2021
+> 🏆 2,669 Contributions in the Year 2021
  > 
-> 📦 87.4 kB Used in Github's Storage 
+> 📦 91.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    56 commits     █████░░░░░░░░░░░░░░░░░░░░   20.14% 
-🌆 Daytime    218 commits    ███████████████████░░░░░░   78.42% 
-🌃 Evening    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
+🌞 Morning    70 commits     ██████░░░░░░░░░░░░░░░░░░░   24.48% 
+🌆 Daytime    213 commits    ██████████████████░░░░░░░   74.48% 
+🌃 Evening    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-Tuesday      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-Wednesday    59 commits     █████░░░░░░░░░░░░░░░░░░░░   21.22% 
-Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
-Friday       125 commits    ███████████░░░░░░░░░░░░░░   44.96% 
-Saturday     7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52% 
-Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
+Monday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
+Tuesday      21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.34% 
+Wednesday    53 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.53% 
+Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+Friday       129 commits    ███████████░░░░░░░░░░░░░░   45.1% 
+Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
 
 ```
 
@@ -132,24 +132,18 @@ Sunday       17 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.79% 
-JavaScript               2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.83% 
-JSON                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+Markdown                 1 hr 26 mins        ████████████████████████░   95.88% 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.12%
 
 🔥 Editors: 
-VS Code                  8 hrs 41 mins       █████████████████████████   100.0%
+VS Code                  1 hr 29 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-npx_card                 3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.96% 
-MasterCoder1234567890    3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.58% 
-Npx-Card                 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-Github-Bot               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88% 
-bitandbang               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79%
+MasterCoder1234567890    1 hr 27 mins        ████████████████████████░   97.56% 
+cosmoglint-master        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
 
 💻 Operating System: 
-Windows                  8 hrs 41 mins       █████████████████████████   100.0%
+Windows                  1 hr 29 mins        █████████████████████████   100.0%
 
 ```
 
@@ -167,7 +161,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MasterCoder1234567890/MasterCoder1234567890/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/08/2021
+ Last Updated on 04/09/2021
 <!--END_SECTION:waka-->
 
 </details>
@@ -216,11 +210,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16169](https://github.com/timburgan/timburgan/issues/16169) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#16168](https://github.com/timburgan/timburgan/issues/16168) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#16167](https://github.com/timburgan/timburgan/issues/16167) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Opened issue [#16166](https://github.com/timburgan/timburgan/issues/16166) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. ❗️ Opened issue [#16111](https://github.com/timburgan/timburgan/issues/16111) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. ❗️ Opened issue [#16418](https://github.com/timburgan/timburgan/issues/16418) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#16417](https://github.com/timburgan/timburgan/issues/16417) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+3. ❗️ Opened issue [#16411](https://github.com/timburgan/timburgan/issues/16411) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. 🗣 Commented on [#3](https://github.com/meehawk/meehawk/issues/3) in [meehawk/meehawk](https://github.com/meehawk/meehawk)
+5. 🗣 Commented on [#3](https://github.com/meehawk/meehawk/issues/3) in [meehawk/meehawk](https://github.com/meehawk/meehawk)
   <!--END_SECTION:activity-->
 
 </details>
@@ -267,5 +261,3 @@ align="left" />
 [roblox]: https://web.roblox.com/users/1992108766/profile
 [discord]: https://discord.gg/4CpjK2vveY
 [spotify]: https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e
-
-
