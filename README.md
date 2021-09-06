@@ -247,7 +247,7 @@ align="left" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/MasterCoder1234567890)
 
-💻 Made with ❤️ by **Aaryan Bizoara** with **Github** 🙏
+## 💻 Made with ❤️ by **Aaryan Bizoara** with **Github** 🙏
 
 ![Bottom Doodle](/files/bottom.png)
 </details>
