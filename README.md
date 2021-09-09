@@ -177,7 +177,7 @@ align = left/>
 </details>
 
 <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+  <summary><b>:zap:🧑‍🚀 My Projects :zap:</b>: </summary>
 
   <br />
   <table>
