@@ -210,11 +210,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3476](https://github.com/JonathanGin52/JonathanGin52/issues/3476) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#3475](https://github.com/JonathanGin52/JonathanGin52/issues/3475) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#16485](https://github.com/timburgan/timburgan/issues/16485) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Opened issue [#3474](https://github.com/JonathanGin52/JonathanGin52/issues/3474) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#1060](https://github.com/benjaminsampica/benjaminsampica/issues/1060) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+1. ❗️ Opened issue [#3481](https://github.com/JonathanGin52/JonathanGin52/issues/3481) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#3476](https://github.com/JonathanGin52/JonathanGin52/issues/3476) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#3475](https://github.com/JonathanGin52/JonathanGin52/issues/3475) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#16485](https://github.com/timburgan/timburgan/issues/16485) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. ❗️ Opened issue [#3474](https://github.com/JonathanGin52/JonathanGin52/issues/3474) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
   <!--END_SECTION:activity-->
 
 </details>
