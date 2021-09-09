@@ -82,7 +82,7 @@ npx aaryan
 
 ---
 
-## 👱🏼Some Of My Best Projects🚀-
+## 👱🏼 Some Of My Best Projects 🚀-
 
   <br />
   <table>
@@ -300,7 +300,7 @@ align="left" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/MasterCoder1234567890)
 
-## Show Some ❤️ by Starring or Forking Some of My Repositories!
+## Show Some ❤️ by Starring or Forking Some of My Repositories 🙏🙏!
 
 <br>
 
