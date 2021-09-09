@@ -82,6 +82,59 @@ npx aaryan
 
 ---
 
+## 🧑‍🚀My Projects-
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/MasterCoder1234567890/MasterCoder1234567890"><b>🚀 MasterCoder123467890</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MasterCoder1234567890/MasterCoder1234567890?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MasterCoder1234567890/MasterCoder1234567890?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/MasterCoder1234567890/MasterCoder1234567890?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MasterCoder1234567890/MasterCoder1234567890?style=flat-square&label=Pull%20Requests"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/MasterCoder1234567890/MasterCoder1234567890?style=flat-square&label=Markdown"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/MasterCoder1234567890/Npx-Card"><b>💸 Npx- Business Card</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MasterCoder1234567890/Npx-Card?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MasterCoder1234567890/Npx-Card?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/MasterCoder1234567890/Npx-Card?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MasterCoder1234567890/Npx-Card?style=flat-square&label=Pull%20Requests"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/MasterCoder1234567890/Npx-Card?label=Javascript&style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/MasterCoder1234567890/Project-38"><b>👨🏻‍💻 Bob The Robber Game</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MasterCoder1234567890/Project-38?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MasterCoder1234567890/Project-38?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/MasterCoder1234567890/Project-38?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MasterCoder1234567890/Project-38?style=flat-square&label=Pull%20Requests"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/MasterCoder1234567890/Project-38?style=flat-square&label=Javascript"/></td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/MasterCoder1234567890/Project-28"><b>😋 Plucking Mangoes Game</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/MasterCoder1234567890/Project-28?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/MasterCoder1234567890/Project-28?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/MasterCoder1234567890/Project-28?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MasterCoder1234567890/Project-28?style=flat-square&label=Pull%20Requests"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/MasterCoder1234567890/Project-28?style=flat-square&label=Javascript"/></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br />
+
+---
+
 <h1 align="center">My Programming, WakaTime, Github and Youtube Stats</h1>
 
  <details> 
@@ -174,59 +227,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <img src='https://github-readme-stats.vercel.app/api/wakatime?username=mastercoder123456789' 
 align = left/>
 
-</details>
-
-<details>
-  <summary><b>:zap:🧑‍🚀 My Projects :zap:</b>: </summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/MasterCoder1234567890/MasterCoder1234567890"><b>🚀 MasterCoder123467890</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/MasterCoder1234567890/MasterCoder1234567890?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/MasterCoder1234567890/MasterCoder1234567890?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/MasterCoder1234567890/MasterCoder1234567890?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MasterCoder1234567890/MasterCoder1234567890?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/MasterCoder1234567890/MasterCoder1234567890?style=flat-square&label=Markdown"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/MasterCoder1234567890/Npx-Card"><b>💸 Npx- Business Card</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/MasterCoder1234567890/Npx-Card?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/MasterCoder1234567890/Npx-Card?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/MasterCoder1234567890/Npx-Card?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MasterCoder1234567890/Npx-Card?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/MasterCoder1234567890/Npx-Card?label=Javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/MasterCoder1234567890/Project-38"><b>👨🏻‍💻 Bob The Robber Game</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/MasterCoder1234567890/Project-38?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/MasterCoder1234567890/Project-38?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/MasterCoder1234567890/Project-38?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MasterCoder1234567890/Project-38?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/MasterCoder1234567890/Project-38?style=flat-square&label=Javascript"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/MasterCoder1234567890/Project-28"><b>😋 Plucking Mangoes Game</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/MasterCoder1234567890/Project-28?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/MasterCoder1234567890/Project-28?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/MasterCoder1234567890/Project-28?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MasterCoder1234567890/Project-28?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/MasterCoder1234567890/Project-28?style=flat-square&label=Javascript"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
 </details>
 
 <details>
