@@ -65,7 +65,7 @@ npx aaryan
 [![My Rock Playlist](https://img.shields.io/badge/My%20Rock%20Music%20Playlist-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3w9KxGaNLAzUCmBWylXRKJ)
 [![Youtube Playlist](https://img.shields.io/badge/Youtube%20Songs%20Playlist-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6WWwkb3SOn7umVjuBaqBnn)
 
-[![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
+[![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
 
 ## ❤️Connect With Me❤️:
 
