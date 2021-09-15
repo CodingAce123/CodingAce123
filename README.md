@@ -20,7 +20,7 @@
 
 
 <h2 align='left'>
-  Softwares I Use:-<br/>
+  Softwares I Use:-<br/><br/>
 
 <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
 <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
@@ -31,7 +31,7 @@
 </h2>
 
 <h2 align='left'>
-  Languages That I Know...<br/>
+  Languages That I Know...<br/><br/>
 
 <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
 <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
