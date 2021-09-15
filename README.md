@@ -4,6 +4,7 @@
 
 <h1 align="center">नमस्ते जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Aaryan Bizoara- a.k.a. 👱🏼 MasterCoder1234567890 (☕💻💡❤️)®™</h1>
 
+[![License](https://img.shields.io/badge/License-GPL-blue)](https://github.com/MasterCoder1234567890)
 [![Updated Badge](https://badges.pufler.dev/updated/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
 [![Created Badge](https://badges.pufler.dev/created/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
