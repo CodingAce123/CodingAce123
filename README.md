@@ -3,6 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Aaryan.;I+Am+a+JavaScript+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/MasterCoder1234567890)
 
 <h1 align="center">नमस्ते जी <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Aaryan Bizoara- a.k.a. 👱🏼 MasterCoder1234567890 (☕💻💡❤️)®™</h1>
+
+[![Updated Badge](https://badges.pufler.dev/updated/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
+[![Created Badge](https://badges.pufler.dev/created/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
 <h3 align="left">A 13 Year Old Passionate Developer from India (भारत)</h3>
 
