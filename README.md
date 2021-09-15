@@ -16,6 +16,18 @@
 [![My Twitch](https://img.shields.io/twitch/status/fireinthetail123?color=f70505&label=My%20Twitch&logo=twitch&style=flat-square)](https://www.twitch.tv/fireinthetail123)
 [![GitHub Followers](https://img.shields.io/github/followers/mastercoder1234567890?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/MasterCoder1234567890)
 
+<img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
+<img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954"alt="music">
+<img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
+<img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
+<img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
+<img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
+<img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
+<img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838">
+<img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/3kh0?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
+
 <h3 align='left'>
   💻 My Workspace, My PC!!!:-<br/><br/>
 
