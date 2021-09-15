@@ -8,6 +8,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
 [![Created Badge](https://badges.pufler.dev/created/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
+[![Waka Readme](https://github.com/MasterCoder1234567890/MasterCoder1234567890/actions/workflows/update-stats.yml/badge.svg?branch=master)](https://github.com/MasterCoder1234567890/MasterCoder1234567890/actions/workflows/waka-readme.yml)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
 <h3 align="left">A 13 Year Old Passionate Developer from India (भारत)</h3>
