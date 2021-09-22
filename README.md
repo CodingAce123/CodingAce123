@@ -96,6 +96,8 @@ npx aaryan
 
 [![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
 
+![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=3rpxiap4czveo8clwzcqaf68e)
+
 ## ❤️Connect With Me❤️:
 
 [<img align="left" alt="https://aaryanbizoara.whjr.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
