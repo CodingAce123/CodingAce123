@@ -6,7 +6,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MasterCoder1234567890)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MasterCoder1234567890)
-[![Updated Badge](https://badges.pufler.dev/updated/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
+[![Updated Badge](https://img.shields.io/github/last-commit/MasterCoder1234567890/MasterCoder1234567890/master?label=Last%20Updated&style=flat)](https://github.com/MasterCoder1234567890/MasterCoder1234567890/commits)
 [![Created Badge](https://badges.pufler.dev/created/MasterCoder1234567890/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/MasterCoder1234567890)](https://github.com/MasterCoder1234567890)
 [![Waka Readme](https://github.com/MasterCoder1234567890/MasterCoder1234567890/actions/workflows/update-stats.yml/badge.svg?branch=master)](https://github.com/MasterCoder1234567890/MasterCoder1234567890/actions/workflows/waka-readme.yml)
