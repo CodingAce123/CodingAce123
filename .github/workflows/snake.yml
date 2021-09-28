@@ -4,11 +4,8 @@ on:
     # Runs every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-    - master
 
-jobs:
+  jobs:
   build:
     runs-on: ubuntu-latest
     name: ⚡ Update this repo's README with Snake
