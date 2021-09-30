@@ -135,7 +135,7 @@ npx aaryan
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/CodingAce123/CodingAce123"><b>🚀 MasterCoder123467890</b></a></td>
+	      <td><a href="https://github.com/CodingAce123/CodingAce123"><b>🚀 CodingAce123</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/CodingAce123/CodingAce123?style=flat-square&label=Stars&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/CodingAce123/CodingAce123?style=flat-square&label=Forks&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/CodingAce123?style=flat-square&label=Issues"/></td>
