@@ -183,9 +183,9 @@ npx aaryan
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,113 Contributions in the Year 2021
+> 🏆 3,155 Contributions in the Year 2021
  > 
-> 📦 92.5 kB Used in GitHub's Storage 
+> 📦 92.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -196,8 +196,8 @@ npx aaryan
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    72 commits     ██████░░░░░░░░░░░░░░░░░░░   26.18% 
-🌆 Daytime    203 commits    ██████████████████░░░░░░░   73.82% 
+🌞 Morning    70 commits     ██████░░░░░░░░░░░░░░░░░░░   25.45% 
+🌆 Daytime    205 commits    ██████████████████░░░░░░░   74.55% 
 🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -208,8 +208,8 @@ npx aaryan
 Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
 Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.55% 
 Wednesday    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-Thursday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Friday       120 commits    ███████████░░░░░░░░░░░░░░   43.64% 
+Thursday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
+Friday       117 commits    ██████████░░░░░░░░░░░░░░░   42.55% 
 Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.18%
 
@@ -222,24 +222,24 @@ Sunday       17 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     21 mins             ██████████████░░░░░░░░░░░   57.87% 
-Text                     12 mins             ████████░░░░░░░░░░░░░░░░░   33.43% 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript               50 mins             █████████░░░░░░░░░░░░░░░░   38.07% 
+JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
+HTML                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
+Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
+Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.36%
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 13 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-CodingAce123             6 mins              █████████████████████████   100.0% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-Activity- ConfettiJS     21 mins             ██████████████░░░░░░░░░░░   57.87% 
-Unknown Project          12 mins             ████████░░░░░░░░░░░░░░░░░   33.43% 
-MasterCoder1234567890    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
+Npx-Card                 1 hr 2 mins         ███████████░░░░░░░░░░░░░░   46.61% 
+Activity- ConfettiJS     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
+CodingAce123             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
+Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
+MasterCoder1234567890    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.0%
+Windows                  2 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -257,7 +257,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2021
+ Last Updated on 03/10/2021
 <!--END_SECTION:waka-->
 
 </details>
@@ -306,11 +306,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16944](https://github.com/timburgan/timburgan/issues/16944) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#16943](https://github.com/timburgan/timburgan/issues/16943) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#3642](https://github.com/JonathanGin52/JonathanGin52/issues/3642) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#3630](https://github.com/JonathanGin52/JonathanGin52/issues/3630) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#16919](https://github.com/timburgan/timburgan/issues/16919) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. ❗️ Opened issue [#17004](https://github.com/timburgan/timburgan/issues/17004) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#3683](https://github.com/JonathanGin52/JonathanGin52/issues/3683) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#3682](https://github.com/JonathanGin52/JonathanGin52/issues/3682) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#3681](https://github.com/JonathanGin52/JonathanGin52/issues/3681) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#3680](https://github.com/JonathanGin52/JonathanGin52/issues/3680) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
   <!--END_SECTION:activity-->
 
 </details>
