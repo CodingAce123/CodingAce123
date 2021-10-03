@@ -185,25 +185,25 @@ npx aaryan
  <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2380%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5249%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,155 Contributions in the Year 2021
+> 🏆 3,173 Contributions in the Year 2021
  > 
-> 📦 92.1 kB Used in GitHub's Storage 
+> 📦 92.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    70 commits     ██████░░░░░░░░░░░░░░░░░░░   25.45% 
-🌆 Daytime    205 commits    ██████████████████░░░░░░░   74.55% 
+🌞 Morning    70 commits     ██████░░░░░░░░░░░░░░░░░░░   24.56% 
+🌆 Daytime    215 commits    ██████████████████░░░░░░░   75.44% 
 🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -211,13 +211,13 @@ npx aaryan
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
-Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.55% 
-Wednesday    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-Thursday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Friday       117 commits    ██████████░░░░░░░░░░░░░░░   42.55% 
-Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.18%
+Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
+Wednesday    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+Thursday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Friday       112 commits    █████████░░░░░░░░░░░░░░░░   39.3% 
+Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
+Sunday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.23%
 
 ```
 
@@ -252,8 +252,9 @@ Windows                  2 hrs 13 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               41 repos            ████████████████████████░   97.62% 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
+JavaScript               41 repos            ███████████████████████░░   93.18% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
 
 ```
 
@@ -312,11 +313,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17004](https://github.com/timburgan/timburgan/issues/17004) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#3683](https://github.com/JonathanGin52/JonathanGin52/issues/3683) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#3682](https://github.com/JonathanGin52/JonathanGin52/issues/3682) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#3681](https://github.com/JonathanGin52/JonathanGin52/issues/3681) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#3680](https://github.com/JonathanGin52/JonathanGin52/issues/3680) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. ❗️ Opened issue [#3691](https://github.com/JonathanGin52/JonathanGin52/issues/3691) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#3690](https://github.com/JonathanGin52/JonathanGin52/issues/3690) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#3689](https://github.com/JonathanGin52/JonathanGin52/issues/3689) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#3688](https://github.com/JonathanGin52/JonathanGin52/issues/3688) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#17027](https://github.com/timburgan/timburgan/issues/17027) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
   <!--END_SECTION:activity-->
 
 </details>
