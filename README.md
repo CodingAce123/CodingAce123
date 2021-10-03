@@ -126,8 +126,8 @@ npx aaryan
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
+        <td><b>🌟 Stars </b></td>
+        <td><b>🍴 Forks </b></td>
         <td><b>🐛 Issues</b></td>
         <td><b>🔔 Pull Requests</b></td>
         <td><b>👨‍💻 Language</b></td>
@@ -163,6 +163,14 @@ npx aaryan
         <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/Project-38?style=flat-square&label=Issues"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodingAce123/Project-38?style=flat-square&label=Pull%20Requests"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/CodingAce123/Project-38?style=flat-square&label=Javascript"/></td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/CodingAce123/Project-28"><b>😋 Plucking Mangoes Game</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/CodingAce123/Project-28?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/CodingAce123/Project-28?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/Project-28?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodingAce123/Project-28?style=flat-square&label=Pull%20Requests"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/CodingAce123/Project-28?style=flat-square&label=Javascript"/></td> 
       </tr>
     </tbody>
   </table>
