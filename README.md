@@ -274,7 +274,10 @@ HTML                     1 repo              ░░░░░░░░░░░�
   <b>:zap: WakaTime Stats <img align="left" alt="Wakatime Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/wakatime.svg" /> :zap:</b>: </summary>
 <br />
 
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=CodingAce123' 
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@CodingAce123' 
+align = left/>
+
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@CodingAce123&theme=light&layout=compact'
 align = left/>
 
 </details>
