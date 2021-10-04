@@ -277,7 +277,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 <img src='https://github-readme-stats.vercel.app/api/wakatime?username=@CodingAce123' 
 align = left/>
 
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@CodingAce123&theme=light&layout=compact'
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@CodingAce123&theme=dark&layout=compact'
 align = left/>
 
 </details>
