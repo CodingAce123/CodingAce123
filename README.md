@@ -185,39 +185,39 @@ npx aaryan
  <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5249%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7539%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,173 Contributions in the Year 2021
+> 🏆 3,201 Contributions in the Year 2021
  > 
-> 📦 92.5 kB Used in GitHub's Storage 
+> 📦 93.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 50 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    70 commits     ██████░░░░░░░░░░░░░░░░░░░   24.56% 
-🌆 Daytime    215 commits    ██████████████████░░░░░░░   75.44% 
-🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌞 Morning    64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.77% 
+🌆 Daytime    221 commits    ██████████████████░░░░░░░   75.17% 
+🌃 Evening    9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
-Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
-Wednesday    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
-Thursday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Friday       112 commits    █████████░░░░░░░░░░░░░░░░   39.3% 
-Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
-Sunday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.23%
+Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
+Wednesday    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
+Thursday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
+Friday       108 commits    █████████░░░░░░░░░░░░░░░░   36.73% 
+Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.46% 
+Sunday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.35%
 
 ```
 
@@ -228,33 +228,33 @@ Sunday       32 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               50 mins             █████████░░░░░░░░░░░░░░░░   38.07% 
-JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-HTML                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.36%
+Markdown                 1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   30.19% 
+HTML                     1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.92% 
+JavaScript               1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.16% 
+CSS                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.2%
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 16 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Npx-Card                 1 hr 2 mins         ███████████░░░░░░░░░░░░░░   46.61% 
-Activity- ConfettiJS     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-CodingAce123             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
-Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
-MasterCoder1234567890    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Npx-Card                 1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.65% 
+CodingAce123             56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
+Chat-Bot                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
+cloud_haiku              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
+Indian-Independence-Day-P26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.24%
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.0%
+Windows                  5 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               41 repos            ███████████████████████░░   93.18% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+JavaScript               41 repos            █████████████████████░░░░   87.23% 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
 
 ```
 
@@ -264,7 +264,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/10/2021
+ Last Updated on 04/10/2021
 <!--END_SECTION:waka-->
 
 </details>
@@ -316,11 +316,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3691](https://github.com/JonathanGin52/JonathanGin52/issues/3691) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#3690](https://github.com/JonathanGin52/JonathanGin52/issues/3690) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#3689](https://github.com/JonathanGin52/JonathanGin52/issues/3689) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#3688](https://github.com/JonathanGin52/JonathanGin52/issues/3688) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#17027](https://github.com/timburgan/timburgan/issues/17027) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 💪 Opened PR [#405](https://github.com/sbmxc/hacktoberfest/pull/405) in [sbmxc/hacktoberfest](https://github.com/sbmxc/hacktoberfest)
+2. 💪 Opened PR [#103](https://github.com/MaedahBatool/pudl/pull/103) in [MaedahBatool/pudl](https://github.com/MaedahBatool/pudl)
+3. 💪 Opened PR [#1653](https://github.com/do-community/cloud_haiku/pull/1653) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
+4. ❗️ Opened issue [#3691](https://github.com/JonathanGin52/JonathanGin52/issues/3691) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#3690](https://github.com/JonathanGin52/JonathanGin52/issues/3690) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
   <!--END_SECTION:activity-->
 
 </details>
