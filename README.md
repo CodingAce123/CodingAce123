@@ -316,11 +316,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#405](https://github.com/sbmxc/hacktoberfest/pull/405) in [sbmxc/hacktoberfest](https://github.com/sbmxc/hacktoberfest)
-2. 💪 Opened PR [#103](https://github.com/MaedahBatool/pudl/pull/103) in [MaedahBatool/pudl](https://github.com/MaedahBatool/pudl)
-3. 💪 Opened PR [#1653](https://github.com/do-community/cloud_haiku/pull/1653) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
-4. ❗️ Opened issue [#3691](https://github.com/JonathanGin52/JonathanGin52/issues/3691) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#3690](https://github.com/JonathanGin52/JonathanGin52/issues/3690) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. ❗️ Opened issue [#17053](https://github.com/timburgan/timburgan/issues/17053) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#3704](https://github.com/JonathanGin52/JonathanGin52/issues/3704) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. 💪 Opened PR [#405](https://github.com/sbmxc/hacktoberfest/pull/405) in [sbmxc/hacktoberfest](https://github.com/sbmxc/hacktoberfest)
+4. 💪 Opened PR [#103](https://github.com/MaedahBatool/pudl/pull/103) in [MaedahBatool/pudl](https://github.com/MaedahBatool/pudl)
+5. 💪 Opened PR [#1653](https://github.com/do-community/cloud_haiku/pull/1653) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
   <!--END_SECTION:activity-->
 
 </details>
