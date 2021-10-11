@@ -316,11 +316,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1194](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/pull/1194) in [Open-Source-Contributors-JSS/Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
-2. 💪 Opened PR [#764](https://github.com/Sangwan5688/Hacktoberfest2021/pull/764) in [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)
-3. 💪 Opened PR [#135](https://github.com/saloni-15/Heel2Toe/pull/135) in [saloni-15/Heel2Toe](https://github.com/saloni-15/Heel2Toe)
-4. 🗣 Commented on [#348](https://github.com/Astrodevil/Programming-Basics/issues/348) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-5. 🗣 Commented on [#103](https://github.com/MaedahBatool/pudl/issues/103) in [MaedahBatool/pudl](https://github.com/MaedahBatool/pudl)
+1. 🗣 Commented on [#173](https://github.com/FayasNoushad/Website/issues/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
+2. 💪 Opened PR [#173](https://github.com/FayasNoushad/Website/pull/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
+3. 💪 Opened PR [#1194](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/pull/1194) in [Open-Source-Contributors-JSS/Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
+4. 💪 Opened PR [#764](https://github.com/Sangwan5688/Hacktoberfest2021/pull/764) in [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)
+5. 💪 Opened PR [#135](https://github.com/saloni-15/Heel2Toe/pull/135) in [saloni-15/Heel2Toe](https://github.com/saloni-15/Heel2Toe)
   <!--END_SECTION:activity-->
 
 </details>
