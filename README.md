@@ -184,39 +184,39 @@ npx aaryan
  <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7539%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9413%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,201 Contributions in the Year 2021
+> 🏆 3,277 Contributions in the Year 2021
  > 
-> 📦 93.0 kB Used in GitHub's Storage 
+> 📦 92.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 58 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.77% 
-🌆 Daytime    221 commits    ██████████████████░░░░░░░   75.17% 
-🌃 Evening    9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
+🌞 Morning    75 commits     ██████░░░░░░░░░░░░░░░░░░░   23.66% 
+🌆 Daytime    231 commits    ██████████████████░░░░░░░   72.87% 
+🌃 Evening    11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
-Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-Wednesday    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
-Thursday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
-Friday       108 commits    █████████░░░░░░░░░░░░░░░░   36.73% 
-Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.46% 
-Sunday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.35%
+Monday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
+Wednesday    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.41% 
+Thursday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
+Friday       119 commits    █████████░░░░░░░░░░░░░░░░   37.54% 
+Saturday     17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+Sunday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.72%
 
 ```
 
@@ -227,33 +227,33 @@ Sunday       51 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   30.19% 
-HTML                     1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.92% 
-JavaScript               1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.16% 
-CSS                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.2%
+Markdown                 2 hrs 35 mins       ████████████████████░░░░░   79.51% 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.95% 
+JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
+Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🔥 Editors: 
-VS Code                  5 hrs 16 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 15 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Npx-Card                 1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.65% 
-CodingAce123             56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
-Chat-Bot                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
-cloud_haiku              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
-Indian-Independence-Day-P26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.24%
+Website                  46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59% 
+cloud_haiku              44 mins             █████░░░░░░░░░░░░░░░░░░░░   22.91% 
+Heel2Toe                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+Programming-Basics       24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
+Npx-Card                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.41%
 
 💻 Operating System: 
-Windows                  5 hrs 16 mins       █████████████████████████   100.0%
+Windows                  3 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               41 repos            █████████████████████░░░░   87.23% 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+JavaScript               42 repos            █████████████████████░░░░   84.0% 
+CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.0%
 
 ```
 
@@ -263,7 +263,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2021
+ Last Updated on 12/10/2021
 <!--END_SECTION:waka-->
 
 </details>
@@ -315,11 +315,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#405](https://github.com/sbmxc/hacktoberfest/pull/405) in [sbmxc/hacktoberfest](https://github.com/sbmxc/hacktoberfest)
-2. 💪 Opened PR [#103](https://github.com/MaedahBatool/pudl/pull/103) in [MaedahBatool/pudl](https://github.com/MaedahBatool/pudl)
-3. 💪 Opened PR [#1653](https://github.com/do-community/cloud_haiku/pull/1653) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
-4. ❗️ Opened issue [#3691](https://github.com/JonathanGin52/JonathanGin52/issues/3691) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#3690](https://github.com/JonathanGin52/JonathanGin52/issues/3690) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. 💪 Opened PR [#108](https://github.com/techschneiderrr/HacktoberFest_2021/pull/108) in [techschneiderrr/HacktoberFest_2021](https://github.com/techschneiderrr/HacktoberFest_2021)
+2. 🗣 Commented on [#173](https://github.com/FayasNoushad/Website/issues/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
+3. 💪 Opened PR [#173](https://github.com/FayasNoushad/Website/pull/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
+4. 💪 Opened PR [#1194](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/pull/1194) in [Open-Source-Contributors-JSS/Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
+5. 💪 Opened PR [#764](https://github.com/Sangwan5688/Hacktoberfest2021/pull/764) in [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)
   <!--END_SECTION:activity-->
 
 </details>
