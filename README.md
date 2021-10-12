@@ -74,15 +74,17 @@ npx aaryan
  
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
 
-<img align="left" src="https://api.daily.dev/devcards/e9dc5fe6fe464c60a58a3e4ad68a9bb3.png?r=fzk" width="300px" height="400px" alt="Aaryan Bizoara's Dev Card" /> 
+<img align="left" src="https://api.daily.dev/devcards/e9dc5fe6fe464c60a58a3e4ad68a9bb3.png?r=fzk" width="350px" height="430px" alt="Aaryan Bizoara's Dev Card" /> 
 
 ## I'm A Student, Developer, Gamer and a Learner!!!
 - 👱🏼 Hey, I am Aaryan Bizoara, a Young Developer and I'm a Student In Grade 8th
-- 🎓 Currently In Coding, I Am Learning JavaScript on [WhiteHat Junior][refferal].
-- 😐 I have a Love/hate Relationship with Programming
-- 💥 Check Out My Awesome [Octoprofile][octoprofile]
+- 🥇 Currently, I am 13 Years Old!
 - 🌈 I Like Coding, Cricket, Art and Craft, Cubing, Music and Playing Games.
 - ⚡ FUN FACT: I Love Food, Travelling and Playing Games 
+- 🎓 In Coding, I Am Learning JavaScript on [WhiteHat Junior][refferal].
+- 🌱 I Am Currently Learning JavaScript, CSS, HTML and C#
+- 😐 I have a Love/hate Relationship with Programming
+- 💥 Check Out My Awesome [Octoprofile][octoprofile]
 - 😄 Pronouns: Coder, Leader and Kind Hearted
 - ✈ In Future, I’m looking to go in Microsoft.
 - ❤️ Support Me and Follow Me In  Social Media (by the way Twitter Is blocked due to age requirements)
