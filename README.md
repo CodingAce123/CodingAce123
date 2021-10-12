@@ -316,11 +316,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/FayasNoushad/Website/issues/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
-2. 💪 Opened PR [#173](https://github.com/FayasNoushad/Website/pull/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
-3. 💪 Opened PR [#1194](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/pull/1194) in [Open-Source-Contributors-JSS/Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
-4. 💪 Opened PR [#764](https://github.com/Sangwan5688/Hacktoberfest2021/pull/764) in [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)
-5. 💪 Opened PR [#135](https://github.com/saloni-15/Heel2Toe/pull/135) in [saloni-15/Heel2Toe](https://github.com/saloni-15/Heel2Toe)
+1. 💪 Opened PR [#108](https://github.com/techschneiderrr/HacktoberFest_2021/pull/108) in [techschneiderrr/HacktoberFest_2021](https://github.com/techschneiderrr/HacktoberFest_2021)
+2. 🗣 Commented on [#173](https://github.com/FayasNoushad/Website/issues/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
+3. 💪 Opened PR [#173](https://github.com/FayasNoushad/Website/pull/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
+4. 💪 Opened PR [#1194](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/pull/1194) in [Open-Source-Contributors-JSS/Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
+5. 💪 Opened PR [#764](https://github.com/Sangwan5688/Hacktoberfest2021/pull/764) in [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)
   <!--END_SECTION:activity-->
 
 </details>
