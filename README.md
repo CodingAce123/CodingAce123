@@ -74,8 +74,7 @@ npx aaryan
  
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
 
-<img align="left" alt="GIF-1" width="350px" height="340px" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" />
-
+<img align="left" src="https://api.daily.dev/devcards/e9dc5fe6fe464c60a58a3e4ad68a9bb3.png?r=fzk" width="100px" height="300px" alt="Aaryan Bizoara's Dev Card" /> 
 
 ## I'm A Student, Developer, Gamer and a Learner!!!
 - 👱🏼 Hey, I am Aaryan Bizoara, a Young Developer and I'm a Student In Grade 8th
