@@ -317,11 +317,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2499](https://github.com/keshavsingh4522/hacktoberfest2021/pull/2499) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
-2. 💪 Opened PR [#108](https://github.com/techschneiderrr/HacktoberFest_2021/pull/108) in [techschneiderrr/HacktoberFest_2021](https://github.com/techschneiderrr/HacktoberFest_2021)
-3. 🗣 Commented on [#173](https://github.com/FayasNoushad/Website/issues/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
-4. 💪 Opened PR [#173](https://github.com/FayasNoushad/Website/pull/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
-5. 💪 Opened PR [#1194](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/pull/1194) in [Open-Source-Contributors-JSS/Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
+1. 🗣 Commented on [#103](https://github.com/MaedahBatool/pudl/issues/103) in [MaedahBatool/pudl](https://github.com/MaedahBatool/pudl)
+2. 💪 Opened PR [#2499](https://github.com/keshavsingh4522/hacktoberfest2021/pull/2499) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
+3. 💪 Opened PR [#108](https://github.com/techschneiderrr/HacktoberFest_2021/pull/108) in [techschneiderrr/HacktoberFest_2021](https://github.com/techschneiderrr/HacktoberFest_2021)
+4. 🗣 Commented on [#173](https://github.com/FayasNoushad/Website/issues/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
+5. 💪 Opened PR [#173](https://github.com/FayasNoushad/Website/pull/173) in [FayasNoushad/Website](https://github.com/FayasNoushad/Website)
   <!--END_SECTION:activity-->
 
 </details>
