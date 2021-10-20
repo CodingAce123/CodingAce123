@@ -319,9 +319,9 @@ align="left" />
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
 2. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
-3. 🗣 Commented on [#21](https://github.com/suryapratapsinghsuryavanshi/solverjs/issues/21) in [suryapratapsinghsuryavanshi/solverjs](https://github.com/suryapratapsinghsuryavanshi/solverjs)
-4. 💪 Opened PR [#489](https://github.com/codedamn/codedamn-hacktoberfest-projects/pull/489) in [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
-5. 🗣 Commented on [#7](https://github.com/suryapratapsinghsuryavanshi/solverjs/issues/7) in [suryapratapsinghsuryavanshi/solverjs](https://github.com/suryapratapsinghsuryavanshi/solverjs)
+3. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
+4. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
+5. 🗣 Commented on [#21](https://github.com/suryapratapsinghsuryavanshi/solverjs/issues/21) in [suryapratapsinghsuryavanshi/solverjs](https://github.com/suryapratapsinghsuryavanshi/solverjs)
   <!--END_SECTION:activity-->
 
 </details>
