@@ -315,7 +315,7 @@ align="left" />
 2. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
 3. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
 4. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
-5. 🗣 Commented on [#21](https://github.com/suryapratapsinghsuryavanshi/solverjs/issues/21) in [suryapratapsinghsuryavanshi/solverjs](https://github.com/suryapratapsinghsuryavanshi/solverjs)
+5. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
   <!--END_SECTION:activity-->
 
 </details>
