@@ -78,16 +78,16 @@ npx aaryan
 
 
 ## I'm A Student, Developer, Gamer and a Learner!!!
-- 👱🏼 Hey, I am Aaryan Bizoara, a 13 Year Old Young Developer and I'm a Student In Grade 8th
-- 😄 Pronouns: Coder, Leader and Kind Hearted
+- 👱🏼 Hey, I am Aaryan Bizoara, a 13 Year Old Young Developer and a Student In Grade 8.
+- 😄 Adjectives: Coder, Leader and Kind Hearted
 - 🌈 I Like Coding, Cricket, Art and Craft, Cubing, Music and Playing Games.
-- ⚡ FUN FACT: I Love Food, Travelling and Playing Games 
+- ⚡ Cravings: Food, Travelling and Playing Games 
 - 🎓 In Coding, I Am Learning JavaScript on [WhiteHat Junior][refferal].
 - 🌱 I Am Also Learning CSS, HTML and C#
 - 😐 I have a Love/hate Relationship with Programming
 - 💥 Check Out My Awesome [Octoprofile][octoprofile]
-- ✈ In Future, I’m looking to go in Microsoft.
-- ❤️ Support Me and Follow Me In  Social Media (by the way Twitter Is blocked due to age requirements)
+- ✈ In Future, I’m looking to get a job in Microsoft.
+- ❤️ Support Me and Follow Me In  Social Media (by the way my Twitter handle Is blocked due to age requirements)
 - 😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!
 
 ## Listen With Me On Spotify 🎧
@@ -120,7 +120,7 @@ npx aaryan
 
 ---
 
-## 👱🏼 Some Of My Best Projects 🚀-
+## 👱🏼 Some Of My Best and awesome Projects 🚀-
 
   <br />
   <table>
