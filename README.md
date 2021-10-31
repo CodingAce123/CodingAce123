@@ -192,7 +192,7 @@ npx aaryan
 
 > 🏆 3,294 Contributions in the Year 2021
  > 
-> 📦 93.4 kB Used in GitHub's Storage 
+> 📦 93.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -257,7 +257,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2021
+ Last Updated on 31/10/2021
 <!--END_SECTION:waka-->
 
 </details>
