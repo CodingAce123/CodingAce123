@@ -309,9 +309,9 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/CodingAce123/CodingAce123/pull/2) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
-2. 🗣 Commented on [#2](https://github.com/CodingAce123/CodingAce123/issues/2) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
-3. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
+1. ❌ Closed PR [#1](https://github.com/CodingAce123/CodingAce123/pull/1) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
+2. 🎉 Merged PR [#2](https://github.com/CodingAce123/CodingAce123/pull/2) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
+3. 🗣 Commented on [#2](https://github.com/CodingAce123/CodingAce123/issues/2) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
 4. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
 5. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
   <!--END_SECTION:activity-->
