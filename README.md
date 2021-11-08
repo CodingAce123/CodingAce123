@@ -321,7 +321,7 @@ align="left" />
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Make a Sofa- Easy Origami (In 5 MINUTES) 🔥🔥🔥|](https://www.youtube.com/watch?v=Fb9H-Pm2yUo)
+- [How to Make a Sofa- Easy Origami &lpar;In 5 MINUTES&rpar; 🔥🔥🔥|](https://www.youtube.com/watch?v=Fb9H-Pm2yUo)
 - [50th Wedding Anniversary of Usha Anil Bizoara](https://www.youtube.com/watch?v=TuB-YVbts8k)
 - [Diveagar Shrivardhan | Diveagar Beach | Pune To Diveagar | How To Plan Diveagar Trip Itinerary](https://www.youtube.com/watch?v=Rc5F8uGuNDs)
 - [Lonar lake: 10 interesting facts, लोनार झील का रहस्य, Lonar Drone Shots 4K, Pune to lonar road trip](https://www.youtube.com/watch?v=I9IH-np90Yg)
