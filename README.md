@@ -78,16 +78,16 @@ npx aaryan
 
 
 ## I'm A Student, Developer, Gamer and a Learner!!!
-- 👱🏼 Hey, I am Aaryan Bizoara, a 13 Year Old Young Developer and I'm a Student In Grade 8th
-- 😄 Pronouns: Coder, Leader and Kind Hearted
+- 👱🏼 Hey, I am Aaryan Bizoara, a 13 Year Old Young Developer and a Student In Grade 8th.
+- 😄 Adjectives: Coder, Leader and Kind Hearted
 - 🌈 I Like Coding, Cricket, Art and Craft, Cubing, Music and Playing Games.
-- ⚡ FUN FACT: I Love Food, Travelling and Playing Games 
+- ⚡ Cravings: Food, Travelling and Playing Games 
 - 🎓 In Coding, I Am Learning JavaScript on [WhiteHat Junior][refferal].
 - 🌱 I Am Also Learning CSS, HTML and C#
 - 😐 I have a Love/hate Relationship with Programming
 - 💥 Check Out My Awesome [Octoprofile][octoprofile]
-- ✈ In Future, I’m looking to go in Microsoft.
-- ❤️ Support Me and Follow Me In  Social Media (by the way Twitter Is blocked due to age requirements)
+- ✈ In Future, I’m Looking to get a Job in Microsoft.
+- ❤️ Support Me and Follow Me In  Social Media
 - 😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!
 
 ## Listen With Me On Spotify 🎧
@@ -120,7 +120,7 @@ npx aaryan
 
 ---
 
-## 👱🏼 Some Of My Best Projects 🚀-
+## 👱🏼 Some Of My Best and Awesome Projects 🚀-
 
   <br />
   <table>
@@ -186,39 +186,39 @@ npx aaryan
  <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7539%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9328%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,201 Contributions in the Year 2021
+> 🏆 3,307 Contributions in the Year 2021
  > 
-> 📦 93.0 kB Used in GitHub's Storage 
+> 📦 94.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 55 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.77% 
-🌆 Daytime    221 commits    ██████████████████░░░░░░░   75.17% 
-🌃 Evening    9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
+🌞 Morning    64 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.16% 
+🌆 Daytime    240 commits    ██████████████████░░░░░░░   71.86% 
+🌃 Evening    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
-Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-Wednesday    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
-Thursday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
-Friday       108 commits    █████████░░░░░░░░░░░░░░░░   36.73% 
-Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.46% 
-Sunday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.35%
+Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
+Tuesday      49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
+Wednesday    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
+Thursday     40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
+Friday       109 commits    ████████░░░░░░░░░░░░░░░░░   32.63% 
+Saturday     10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99% 
+Sunday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.87%
 
 ```
 
@@ -229,33 +229,25 @@ Sunday       51 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   30.19% 
-HTML                     1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.92% 
-JavaScript               1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.16% 
-CSS                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.2%
+Lua                      1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  5 hrs 16 mins       █████████████████████████   100.0%
+VS Code                  1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Npx-Card                 1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.65% 
-CodingAce123             56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
-Chat-Bot                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
-cloud_haiku              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
-Indian-Independence-Day-P26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.24%
+Unknown Project          1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 16 mins       █████████████████████████   100.0%
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               41 repos            █████████████████████░░░░   87.23% 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+JavaScript               41 repos            █████████████████████░░░░   83.67% 
+CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
 
 ```
 
@@ -265,7 +257,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2021
+ Last Updated on 20/11/2021
 <!--END_SECTION:waka-->
 
 </details>
@@ -317,11 +309,11 @@ align="left" />
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#405](https://github.com/sbmxc/hacktoberfest/pull/405) in [sbmxc/hacktoberfest](https://github.com/sbmxc/hacktoberfest)
-2. 💪 Opened PR [#103](https://github.com/MaedahBatool/pudl/pull/103) in [MaedahBatool/pudl](https://github.com/MaedahBatool/pudl)
-3. 💪 Opened PR [#1653](https://github.com/do-community/cloud_haiku/pull/1653) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
-4. ❗️ Opened issue [#3691](https://github.com/JonathanGin52/JonathanGin52/issues/3691) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#3690](https://github.com/JonathanGin52/JonathanGin52/issues/3690) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. ❌ Closed PR [#1](https://github.com/CodingAce123/CodingAce123/pull/1) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
+2. 🎉 Merged PR [#2](https://github.com/CodingAce123/CodingAce123/pull/2) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
+3. 🗣 Commented on [#2](https://github.com/CodingAce123/CodingAce123/issues/2) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
+4. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
+5. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
   <!--END_SECTION:activity-->
 
 </details>
@@ -329,11 +321,11 @@ align="left" />
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Make a Sofa- Easy Origami (In 5 MINUTES) 🔥🔥🔥|](https://www.youtube.com/watch?v=Fb9H-Pm2yUo)
+- [Atari- My village, Bizoara Home Town, Chhattisgarh 4k video](https://www.youtube.com/watch?v=0nanF0RIZPg)
+- [How to Make a Sofa- Easy Origami &lpar;In 5 MINUTES&rpar; 🔥🔥🔥|](https://www.youtube.com/watch?v=Fb9H-Pm2yUo)
 - [50th Wedding Anniversary of Usha Anil Bizoara](https://www.youtube.com/watch?v=TuB-YVbts8k)
 - [Diveagar Shrivardhan | Diveagar Beach | Pune To Diveagar | How To Plan Diveagar Trip Itinerary](https://www.youtube.com/watch?v=Rc5F8uGuNDs)
 - [Lonar lake: 10 interesting facts, लोनार झील का रहस्य, Lonar Drone Shots 4K, Pune to lonar road trip](https://www.youtube.com/watch?v=I9IH-np90Yg)
-- [How To Submit A PDF Of Assignment In Google Classroom.](https://www.youtube.com/watch?v=g9zXnxBl1uo)
 <!-- YOUTUBE:END -->
 
 ➡️ [More Videos...](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
