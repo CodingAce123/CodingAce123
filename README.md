@@ -20,8 +20,8 @@
 [![Visits](https://komarev.com/ghpvc/?username=CodingAce123&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/CodingAce123)
 [![Website](https://img.shields.io/website?label=My%20Website&logo=Google-Chrome&logoColor=white&style=flat-square&url=https://aaryanbizoara.whjr.site/)](https://aaryanbizoara.whjr.site/)
 [![My Youtube](https://img.shields.io/youtube/channel/subscribers/UC5kSlDs_uZs6mr-GeJfC8tg?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TailOnFire123?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbout-Me&screen_name=TailOnFire123)
-[![My Twitch](https://img.shields.io/twitch/status/fireinthetail123?color=f70505&label=My%20Twitch&logo=twitch&style=flat-square)](https://www.twitch.tv/fireinthetail123)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CrzSnapshotGamr?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbout-Me&screen_name=CrzSnapshotGamr)
+[![My Twitch](https://img.shields.io/twitch/status/crazysnapshotgamer99?color=f70505&label=My%20Twitch&logo=twitch&style=flat-square)](https://www.twitch.tv/crazysnapshotgamer99)
 [![GitHub Followers](https://img.shields.io/github/followers/CodingAce123?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/CodingAce123)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat-square)](https://github.com/CodingAce123)
 [![GitHub User's stars](https://img.shields.io/github/stars/3kh0?color=yellow&label=User%20Stars&style=flat-square&logo=github&logoColor=yellow)](https://github.com/CodingAce123)
@@ -105,10 +105,10 @@ npx aaryan
 
 [<img align="left" alt="https://aaryanbizoara.whjr.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="The Creative Thinking | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="FireInTheTail123| Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/twitch.svg" />][twitch]
-[<img align="left" alt="TailOnFire123| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="FireInTheTail123 | Roblox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/roblox.svg" />][roblox]
-[<img align="left" alt="FireInTheTail123 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/discord.svg" />][discord]
+[<img align="left" alt="CrazySnapshotGamer99 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/twitch.svg" />][twitch]
+[<img align="left" alt="CrzSnapshotGamr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="CrazySnapshotGamer99 | Roblox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/roblox.svg" />][roblox]
+[<img align="left" alt="CrazySnapshotGamer99 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/discord.svg" />][discord]
 [<img align="left" alt="Àârÿàn | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/spotify.svg" />][spotify]
 
 <br />
@@ -367,8 +367,8 @@ align="left" />
 [refferal]: https://whjr.co/5yrU7
 [octoprofile]: https://octoprofile.vercel.app/user?id=CodingAce123
 [youtube]: https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg
-[twitch]: https://twitch.tv/fireinthetail123
-[twitter]: https://twitter.com/TailOnFire123
+[twitch]: https://twitch.tv/crazysnapshotgamer99
+[twitter]: https://twitter.com/CrzSnapshotGamr
 [roblox]: https://web.roblox.com/users/1992108766/profile
 [discord]: https://discord.gg/4CpjK2vveY
 [spotify]: https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e
