@@ -229,19 +229,16 @@ Sunday       53 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     15 mins             █████████████████░░░░░░░░   69.39% 
-Markdown                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
-JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Npx-Card                 18 mins             ████████████████████░░░░░   83.48% 
-CodingAce123             3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.52%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -260,7 +257,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/11/2021
+ Last Updated on 28/11/2021
 <!--END_SECTION:waka-->
 
 </details>
