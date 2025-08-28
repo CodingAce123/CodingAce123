@@ -323,11 +323,11 @@ align="left" />
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Aaryan 14th birthday bash](https://www.youtube.com/watch?v=aF9xm2sO_hc)
-- [Atari- My village, Bizoara Home Town, Chhattisgarh 4k video](https://www.youtube.com/watch?v=0nanF0RIZPg)
-- [How to Make a Sofa- Easy Origami &lpar;In 5 MINUTES&rpar; 🔥🔥🔥|](https://www.youtube.com/watch?v=Fb9H-Pm2yUo)
-- [50th Wedding Anniversary of Usha Anil Bizoara](https://www.youtube.com/watch?v=TuB-YVbts8k)
-- [Diveagar Shrivardhan | Diveagar Beach | Pune To Diveagar | How To Plan Diveagar Trip Itinerary](https://www.youtube.com/watch?v=Rc5F8uGuNDs)
+- [Monkey ka adventure vlog | new monkey vlog #aimonkeyvlog  #monkeyvlog #shorts](https://www.youtube.com/watch?v=TuNzQsvI940)
+- [aaj to pakda gaya bandar new vlog | viral Monkeyvlogs #funny #aimonkey](https://www.youtube.com/watch?v=-_FqWgm8WSo)
+- [जगन्नाथ की यात्रा | MOnkey Vlog in PURI rath yatra #purijagannadh  #jagannath #jagannathpuri](https://www.youtube.com/watch?v=yvgeGbIQof8)
+- [Monkey Vlogger🐒 की DUBAI यात्रा 😲 || DUBAI Vlog by Monkey🐒 || #monkeyvlog #funny](https://www.youtube.com/watch?v=fvGESfZ5Nhs)
+- [Monkey Vlogger🐒 की Katraj Zoo यात्रा 😲 || Zoo Vlog by Monkey🐒 || #monkeyvlog](https://www.youtube.com/watch?v=qYkP_gMSHLg)
 <!-- YOUTUBE:END -->
 
 ➡️ [More Videos...](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
