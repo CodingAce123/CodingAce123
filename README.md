@@ -320,18 +320,6 @@ align="left" />
 
 </details>
 
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Monkey ka adventure vlog | new monkey vlog #aimonkeyvlog  #monkeyvlog #shorts](https://www.youtube.com/watch?v=TuNzQsvI940)
-- [aaj to pakda gaya bandar new vlog | viral Monkeyvlogs #funny #aimonkey](https://www.youtube.com/watch?v=-_FqWgm8WSo)
-- [जगन्नाथ की यात्रा | MOnkey Vlog in PURI rath yatra #purijagannadh  #jagannath #jagannathpuri](https://www.youtube.com/watch?v=yvgeGbIQof8)
-- [Monkey Vlogger🐒 की DUBAI यात्रा 😲 || DUBAI Vlog by Monkey🐒 || #monkeyvlog #funny](https://www.youtube.com/watch?v=fvGESfZ5Nhs)
-- [Monkey Vlogger🐒 की Katraj Zoo यात्रा 😲 || Zoo Vlog by Monkey🐒 || #monkeyvlog](https://www.youtube.com/watch?v=qYkP_gMSHLg)
-<!-- YOUTUBE:END -->
-
-➡️ [More Videos...](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
-
 <h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
 
 ![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif)
